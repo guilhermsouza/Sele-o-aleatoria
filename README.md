@@ -1,1 +1,1 @@
-# Sele-o-aleatoria
+# Seleção aleatoria
